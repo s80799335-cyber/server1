@@ -1,0 +1,10 @@
+# تجاهل المجلدات الثقيلة
+/world
+/world_nether
+/world_the_end
+/logs
+/cache
+
+# تجاهل ملفات النظام والـ Logs
+*.log
+*.jar.lock

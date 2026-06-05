@@ -1,0 +1,123 @@
+Plugin:
+  plugin-enabled: '[P]&a The plugin was successfully enabled.'
+  plugin-link: '[P]&a Link with&6 %Link%&a successful!'
+  plugin-update: |-
+    [P]&a New version available:&6 %NewVersion%&a!
+    [P]&a Current version:&6 %Version%&a!
+    [P]&a Download the latest version:
+    [P]&6 %Path%
+  plugin-data: '[P]&c A connection to the data storage could not be established. Please check the server console!'
+  plugin-version: '[P]&c The plugin can''t be used with this server version! (&b%Version%&c)'
+  plugin-reload: '[P]&a The plugin was successfully reloaded.'
+  plugin-disabled: '[P]&a The plugin was successfully disabled.'
+  plugin-prefix: '&7[&6GMusic&7]'
+
+Messages:
+  command-permission-error: '[P]&c You don''t have permission to use this command!'
+  command-sender-error: '[P]&c You can''t run this command!'
+  command-version-error: |-
+    [P]&c Outdated server version! (&b%Version%&c)
+    [P]&c Upgrade the server to use this feature!
+  
+  command-gmusic-use-error: '[P]&c /music play|playing|random|stop|pause|resume|skip|toggle'
+  command-gmusic-world-error: '[P]&c You can''t use music in this world!'
+  command-gmusic-song-error: '[P]&c The song&6 %Song%&c does not exist!'
+  command-gmusic-no-song-error: '[P]&c There are no songs!'
+  command-gmusic-play-use-error: '[P]&c /music play <Song>'
+  command-gmusic-play: '[P]&a Now playing:&6 %SongTitle%'
+  command-gmusic-playing-error: '[P]&c There is currently no song playing!'
+  command-gmusic-playing: '[P]&a Now playing:&6 %SongTitle%'
+  command-gmusic-stop: '[P]&a Song stopped.'
+  command-gmusic-paused-error: '[P]&c There is currently no paused song!'
+  command-gmusic-pause: '[P]&a Song paused.'
+  command-gmusic-resume: '[P]&a Song resumed.'
+  
+  command-gadminmusic-use-error: '[P]&c /adminmusic jukebox|disc|download|radio|edit|play|playing|random|stop|pause|resume|skip|toggle'
+  command-gadminmusic-target-error: '[P]&6 %Target%&c is not a valid target!'
+  command-gadminmusic-amount-error: '[P]&c %Amount%&c is not a valid amount!'
+  command-gadminmusic-song-error: '[P]&c The song&6 %Song%&c does not exist!'
+  command-gadminmusic-jukebox-use-error: '[P]&c /adminmusic jukebox [<Player>] [<Amount>]'
+  command-gadminmusic-jukebox: '[P]&a Added&b %Amount% JukeBoxes to&6 %Player%&a.'
+  command-gadminmusic-disc-use-error: '[P]&c /adminmusic disc <Song> [<Player>] [<Amount>]'
+  command-gadminmusic-disc: '[P]&a Added&b %Amount% discs to&6 %Player%&a.'
+  command-gadminmusic-download-use-error: '[P]&c /adminmusic download <Type> <Song> <Url>'
+  command-gadminmusic-download-type-error: '[P]&6 %Type%&c is not a valid download type!'
+  command-gadminmusic-download-filename-error: '[P]&6 %Filename%&c already exists!'
+  command-gadminmusic-download-error: '[P]&c An error occurred during the download!'
+  command-gadminmusic-download: '[P]&a Successfully downloaded&6 %Filename%&a.'
+  command-gadminmusic-edit-use-error: '[P]&c /adminmusic edit <Song> <Option> <Value>'
+  command-gadminmusic-edit-id-error: '[P]&c Song&6 %Song%&c already exists!'
+  command-gadminmusic-edit-category-error: '[P]&6 %Category%&c is not a valid category!'
+  command-gadminmusic-edit-option-error: '[P]&6 %Option%&c is not a valid option!'
+  command-gadminmusic-edit-error: '[P]&c Could not edit song!'
+  command-gadminmusic-edit: '[P]&a Successfully edited&6 %Song%&a.'
+  command-gadminmusic-play-use-error: '[P]&c /adminmusic play <Player> <Song>'
+  command-gadminmusic-playing-use-error: '[P]&c /adminmusic playing <Player>'
+  command-gadminmusic-random-use-error: '[P]&c /adminmusic random <Player>'
+  command-gadminmusic-stop-use-error: '[P]&c /adminmusic stop <Player>'
+  command-gadminmusic-pause-use-error: '[P]&c /adminmusic pause <Player>'
+  command-gadminmusic-resume-use-error: '[P]&c /adminmusic resume <Player>'
+  command-gadminmusic-skip-use-error: '[P]&c /adminmusic skip <Player>'
+  command-gadminmusic-toggle-use-error: '[P]&c /adminmusic toggle <Player>'
+  command-gadminmusic-no-song-error: '[P]&c There are no songs!'
+  command-gadminmusic-play: '[P]&a Now playing:&6 %SongTitle%'
+  command-gadminmusic-playing-error: '[P]&c There is currently no song playing!'
+  command-gadminmusic-playing: '[P]&a Now playing:&6 %SongTitle%'
+  command-gadminmusic-stop: '[P]&a Song stopped.'
+  command-gadminmusic-paused-error: '[P]&c There is currently no paused song!'
+  command-gadminmusic-pause: '[P]&a Song paused.'
+  command-gadminmusic-resume: '[P]&a Song resumed.'
+  
+  actionbar-play: '&aNow playing:&6 %SongTitle%'
+  actionbar-playing: '&aNow playing:&6 %SongTitle%'
+  actionbar-stop: '&aSong stopped'
+  actionbar-pause: '&aSong paused'
+  actionbar-resume: '&aSong resumed'
+
+MusicGUI:
+  title: '&cJukebox'
+  radio-title: '&cRadio'
+  
+  music-pause: '&6Pause'
+  music-resume: '&6Resume'
+  music-stop: '&6Stop'
+  music-skip: '&6Skip Song'
+  music-random: '&6Random Song'
+  music-back: '&6Back'
+  
+  music-playlist-mode-default: '&aMode:&6 Default'
+  music-playlist-mode-favorites: '&aMode:&6 Favorites'
+  music-playlist-mode-radio: '&aMode:&6 Radio'
+  
+  music-options: '&cOptions'
+  music-options-volume: '&aVolume:&b %Volume%%'
+  music-options-join: '&aWelcome music:&6 %Join%'
+  music-options-play-mode-once: '&aMode:&6 Once'
+  music-options-play-mode-shuffle: '&aMode:&6 Shuffle'
+  music-options-play-mode-repeat: '&aMode:&6 Repeat'
+  music-options-particle: '&aParticle:&6 %Particle%'
+  music-options-reverse: '&aReverse:&6 %Reverse%'
+  music-options-range: '&aRange:&b %Range%'
+  
+  music-options-true: 'Yes'
+  music-options-false: 'No'
+  
+  music-search-none: '&cSearch'
+  music-search: '&cSearch:&6 %Search%'
+  music-search-menu-title: '&cSearch for a song'
+  music-search-menu-field: Search
+  
+  last-page: '&6Previous page'
+  next-page: '&6Next page'
+  
+  disc-title: '&b%SongTitle%&7 -&6 %OriginalAuthor%'
+  disc-empty-author: Unknown
+  disc-empty-original-author: Unknown
+  disc-favorite: '&cFavorite'
+
+Items:
+  jukebox-title: '&cJukeBox'
+  jukebox-description: '&aA JukeBox, which plays special music!'
+  
+  disc-title: '&b%SongTitle%&7 -&6 %OriginalAuthor%'
+  disc-description: '&aA Disc, which plays special music!'

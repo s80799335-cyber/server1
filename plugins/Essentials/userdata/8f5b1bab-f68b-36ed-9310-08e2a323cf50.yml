@@ -1,0 +1,31 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 197.63.15.33
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1780653366038
+  login: 1780657077156
+money: '0'
+last-account-name: Michael_Tokyo
+logoutlocation:
+  world: 18572e76-4bfd-4a25-95ff-f713479627c0
+  world-name: void
+  x: 0.5497371194943325
+  y: 65.0
+  z: 0.07738867003620807
+  yaw: 0.7498779296875
+  pitch: -8.399993896484375
