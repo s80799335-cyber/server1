@@ -5,3 +5,15 @@ npc-data:
     - '[console] mv tp smp'
     left-click-commands: []
     price: 0
+  npc-18:
+    cooldown: 0
+    right-click-commands:
+    - '[console] mv to smp'
+    - '[mv] to smp'
+    - '[permission] mv to smp'
+    - '[permission] mv to smp'
+    - '[permission] mv to smp'
+    - '[permission] mv to smp'
+    - '[permission] mv tp smp'
+    left-click-commands: []
+    price: 0

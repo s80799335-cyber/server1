@@ -1,4 +1,120 @@
 # Citizens NPC Storage
-last-created-npc-id: 2
-npc: {
-  }
+last-created-npc-id: 23
+npc:
+  '23':
+    traits:
+      owner:
+        uuid: 12dfc3ff-a63e-3f83-a20b-cec4adc6e215
+      scoreboardtrait:
+        tags:
+        - CITIZENS_NPC
+      location:
+        world: hub
+        worldid: 9dc62c39-7b30-4b43-8eb6-ad878e6769ec
+        x: 25.4976
+        y: 20.0
+        z: -70.5364
+        bodyYaw: -51.06988
+        pitch: 0.0
+        yaw: -51.0699
+      type: PLAYER
+      skintrait:
+        signature: r0qo/Q9X1P77e1FP3Py5aeucUVtMDp5+lOd6sSS3Eg1Smp9jVLviMZDF4j8VBsTlTUy54Tz5QwaGWXw0R22FhdyDOlRtCt5wYYxjevlBKn1rGqiFrrepFEI/ILgk4RN25mrxPh+52OXM97UsH1cZcuAe9Q9+x+/HKLbXZiX3C04TUuDn7BWiONpKPBDNH2A4ux0hd18ZoaGg5awP4DBZk1S1CLsuwyyDLSVGt25sX5EgdJL/zz0LKlS7178BiLeTBGtmP6ffex6XFXMTEanb4RuAp1L47KOG41jjegH6BJLiopBV0yEf3ALNYZdyvDcECgqQOGfuI8zgQRbByilsa7dJyY2v5Nc04IW1bmqujQi3mCQysBKP8WvOpIAnBk85T5OPMx5ahN2Byd5iE4erXqo7dCjXQQTazILK0wvKshvDbik/PK5aM2CGdnGMIyCADy46ZFSUkOEHgNf64I6cEvjtzIYvMXNWJoyGWd9df0E8sTUhRcfOp6NUgU0Tg30Id3mfVbSh9qZwgWm8GxBpXBcDTDh2rIUmvgCG+V7UdbF5l05XNxvKHYjzXpYdgRIeMp5+itmnGKXVI3cbUNcn+GS0JLmPTS4Y7kvNTUFIIoh+elEvsxjyYEIuvvW9TssFxWjx1mhORSjZBSMkK29wHugyfgzQ2QapxUpEuncKmf4=
+        skinName: hady
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTc4MDY5NTE5MDM2OSwKICAicHJvZmlsZUlkIiA6ICIzZTI3MWIzM2U4ZTA0ODM4OWNiODViZmUzMDQxNjI4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJIYWR5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNlZDRjZmNjYjAyNTc5OGQyMWEzOTk4NzMyM2MyNzNkZGRhYjgzNGUxNzVlNzM1Yjg0ODYyZTA0NDllNDZkNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9
+      lookclose:
+        enabled: true
+        randomPitchRange:
+        - 0.0
+        - 0.0
+        randomYawRange:
+        - 0.0
+        - 360.0
+    traitnames: owner,scoreboardtrait,spawned,rotationtrait,skintrait,lookclose,location,type,inventory,chunktickettrait
+    name: '&c&lComing Soon!'
+    navigator:
+      usedefaultstuckaction: false
+      speedmodifier: 1.0
+      avoidwater: false
+    uuid: 4e550d20-c05e-44a0-9582-cf3698de4afb
+    metadata:
+      cached-skin-uuid: 3e271b33-e8e0-4838-9cb8-5bfe3041628e
+      cached-skin-uuid-name: hady
+  '18':
+    metadata:
+      cached-skin-uuid: 53fe9725-2927-4c24-b95f-e7b8645618b5
+      cached-skin-uuid-name: imatakenap
+    traits:
+      owner:
+        uuid: 12dfc3ff-a63e-3f83-a20b-cec4adc6e215
+      scoreboardtrait:
+        tags:
+        - CITIZENS_NPC
+      skintrait:
+        signature: Sgm+2eAXEQCwJuLFSyj1Z93VeZHMUmobctm7Dem9ZnBI8f32FWZ6ZywUFwh0A25F/qfvLetnrAukouIE2SCtEIhbmrQ5KyeJH69KiH9HoMOHYj11TgbtDbZ0QhFZwhFhQogTQRNQTsTWsVUABLm9/gRV68SXwchI+Tb2AH3l058AHO1dO36oV6+MrsR78Cb5akZvbkGVvAiFhJf8+rQNfKstuOAPyaz1/GlluoWoGOaArDO3TSBb6E/TG4Z3cHiBsRvtBhodC4uucwqMgxxsdoJQxiljTDxJLe88sZmt8/cBgqCI2EQ6g1wXij5JLyRe+7EwrDaknOwPW6zdpEtWfW4Shx80EPVHTKAedGqZ+wR/3ubLrhgOlnjL/2q5lECr3gbQPL/UqvpENFvvjDzoBdM6XcYfOHPNBmE0A9QG2HGZwmAe38KI60UniuB9565on6n4JAv3E2RPTTUFH2GjfjbDZaJXK0Fw+525sAfYu0z9mn8DHOe0RiZeVEMTV7nheyBLoVG3TfkaEnCppHMXVnTg+hWSdknZEUjiu9BDBBpNToCXZH05AQHnAgS9xyImtsJCszjZubiv1U+E29j6s6fr5b157R1N5L8uzJA7FONOvbD/AQUSBdz0ncHCVxLc9tyAzLkdePURNl5LWS4pRjxkobGF0onUs3cm5svhMoE=
+        skinName: ImaTakeNap
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTc4MDY5MzMyNTgxMywKICAicHJvZmlsZUlkIiA6ICI1M2ZlOTcyNTI5Mjc0YzI0Yjk1ZmU3Yjg2NDU2MThiNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJJbWFUYWtlTmFwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY3MWQyY2NkNzJlNWMyNWIwNmU4NmZjZDc4MzU5MWYzYmI0OGNlOWE2NjMxMzA0MjYyNjA0Zjg0M2ZlMTM5ZTgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81ZWM5MzBjZGQyNjI5Yzg3NzE2NTVjNjBlZWJlYjg2N2I0YjY1NTliMGU2ZDNiYzcxYzQwYzk2MzQ3ZmEwM2YwIgogICAgfQogIH0KfQ==
+      lookclose:
+        enabled: true
+        randomPitchRange:
+        - 0.0
+        - 0.0
+        randomYawRange:
+        - 0.0
+        - 360.0
+      location:
+        world: hub
+        worldid: 9dc62c39-7b30-4b43-8eb6-ad878e6769ec
+        x: 26.7321
+        y: 20.0
+        z: -66.4223
+        bodyYaw: -70.586815
+        pitch: -0.572
+        yaw: -70.5868
+      type: PLAYER
+    traitnames: owner,scoreboardtrait,spawned,rotationtrait,skintrait,lookclose,location,type,inventory,chunktickettrait
+    name: Vector
+    navigator:
+      usedefaultstuckaction: false
+      speedmodifier: 1.0
+      avoidwater: false
+    uuid: dd8cf463-9578-4222-b3f6-b3ff93dd0ace
+  '21':
+    traits:
+      owner:
+        uuid: 12dfc3ff-a63e-3f83-a20b-cec4adc6e215
+      scoreboardtrait:
+        tags:
+        - CITIZENS_NPC
+      lookclose:
+        enabled: true
+        randomPitchRange:
+        - 0.0
+        - 0.0
+        randomYawRange:
+        - 0.0
+        - 360.0
+      location:
+        world: hub
+        worldid: 9dc62c39-7b30-4b43-8eb6-ad878e6769ec
+        x: 25.5401
+        y: 20.0
+        z: -62.4886
+        bodyYaw: -72.59295
+        pitch: -57.068
+        yaw: -72.5929
+      type: PLAYER
+      skintrait:
+        signature: p1LqCiZ5TVbesx22lrwSESA+GC00klCS9USIOQeX1SgItOzLIFWrOaOdx5xOHIhPsb+9iPz4TDLqW5W2BMwCzHvl7ld0oVl0uQiymc8hKFRKZ7s/PVycB8K8C7LT1WCOtya2VVldSJ64631mKtmNtFPy6SR8c1cR1NfiwdR5wOQHrPNN+6LO4Lz0zCY1mH3aqjgFEJMkOP96xUw+46EqId/zbjIl5bUbmqJZd/Sd0B90Y/sGoXSyqIGXmLqAHGq0IuvTDqOmZJwgBXKSuJ+0cIiBXIFZHlAMdAlUJ4h/bA1jDPs6v3i7wp3wdZtNmykby7Th1kzedWFGMcKUR9f/bHga8syxZ1IBgIAAaHfJoxpANUECGlFJmERyBZejJtVKJn2+QvI+i8ZAGsCkdIHBs8+0ElLrvo6noO0qYp4QKsQy/JNMpYTD6h8cCyVo6/zysaNNS7DpI7eS2hDUopQ4VOGNxDnjDJ5JprXArG9r5OcC83Hzj7NqLIrQme1GbqycrF4gkOiypfqQCfr78OdW4AeAWqzgsHVQGD0+0GfnlBzoI0gTlnudA7iIFytWgwwGcdrxvWqE53PWig+SkIhPECeepvtynZlyWkKh7tkUbu0sz1MZqwYnu9UyFTt8C/+WSmKid5ZK1jI2W+dHS86PfazNFPNmn8YeRJnraTNDHcE=
+        skinName: Dreem
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTc4MDY5NTM1NjI3MiwKICAicHJvZmlsZUlkIiA6ICJjZDFkOTk5NDZhNWQ0ZjUwOWNkYTZmN2MwMTkwYmVkOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJEcmVlbSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYTU1ZGEwOTFkZGJlMDJhYjdlYWQzMWI3ODg2M2FlYmMxZWJjZjFlMDAxYzYyYzA2NTJiMjkxYWM0ZGQ0MjQyIgogICAgfQogIH0KfQ==
+    traitnames: owner,scoreboardtrait,spawned,rotationtrait,skintrait,lookclose,location,type,inventory,chunktickettrait
+    name: '&c&lComing Soon!'
+    navigator:
+      usedefaultstuckaction: false
+      speedmodifier: 1.0
+      avoidwater: false
+    uuid: 67d25684-9fbd-44f3-922f-55f0306f84f7
+    metadata:
+      cached-skin-uuid: cd1d9994-6a5d-4f50-9cda-6f7c0190bed8
+      cached-skin-uuid-name: dreem

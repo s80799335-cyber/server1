@@ -1,7 +1,7 @@
 teleportenabled: true
 teleportauto: false
 godmode: false
-flymode: false
+flymode: true
 muted: false
 jailed: false
 ip-address: 41.128.89.83
@@ -12,20 +12,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1780702989666
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1780657803533
-  login: 1780657889519
+  logout: 1780703275513
+  login: 1780703037314
 money: '0'
 last-account-name: ViPhoenixLogic
 logoutlocation:
   world: b6d19721-f8d6-44a3-bca6-7d221c4eb98d
   world-name: world
-  x: 7.23163730243438
-  y: -60.0
-  z: 11.484406020694214
-  yaw: -13.500588417053223
-  pitch: 19.349994659423828
+  x: -24.89293681039406
+  y: -57.84976879230401
+  z: -13.927029413553642
+  yaw: -37.650177001953125
+  pitch: 16.350019454956055
+lastlocation:
+  world: 9dc62c39-7b30-4b43-8eb6-ad878e6769ec
+  world-name: hub
+  x: -3.0711870383708297
+  y: 29.0
+  z: -69.66344452894091
+  yaw: -65.70382690429688
+  pitch: -17.400163650512695

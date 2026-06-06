@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 156.206.185.0
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1780669081099
+  login: 1780666788202
+money: '0'
+last-account-name: SHENAWY
+lastlocation:
+  world: 18572e76-4bfd-4a25-95ff-f713479627c0
+  world-name: void
+  x: -17.499780717398778
+  y: -39.502055703959144
+  z: -14.990006195148474
+  yaw: -60.00070571899414
+  pitch: -20.249982833862305
+logoutlocation:
+  world: 9dc62c39-7b30-4b43-8eb6-ad878e6769ec
+  world-name: hub
+  x: -15.566746500856203
+  y: 75.02532740602565
+  z: 19.305982322034577
+  yaw: 20.39593505859375
+  pitch: 8.700041770935059

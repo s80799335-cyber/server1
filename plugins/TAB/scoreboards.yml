@@ -1,0 +1,12 @@
+scoreboards:
+  default:
+    title: "&6&lYourServer"
+
+    lines:
+      - "&fPlayer: &a%player%"
+      - ""
+      - "&aMoney: &f%vault_eco_balance%"
+      - "&bRank: &f%luckperms_primary_group_name%"
+      - "&dTeam: &f%player_team_name%"
+      - ""
+      - "&"
