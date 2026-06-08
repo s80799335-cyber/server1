@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "uuid": "6ce57de3-e3fa-3b22-b3b7-5a2ff72dbcd4",
+    "name": "Uaciovaod3000HD",
+    "created": "2026-06-06 21:06:20 +0000",
+    "source": "§4Michael_Tokyo§r",
+    "expires": "forever",
+    "reason": "The Ban Hammer has spoken!"
+  },
+  {
+    "uuid": "d95170de-d892-33c2-97a2-dc12aa54d870",
+    "name": "3cIAM",
+    "created": "2026-06-06 21:05:57 +0000",
+    "source": "§4Michael_Tokyo§r",
+    "expires": "forever",
+    "reason": "The Ban Hammer has spoken!"
+  }
+]

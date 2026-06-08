@@ -1,0 +1,51 @@
+menu_title: '&8اختيار السيرفر'
+open_command: server
+
+size: 27
+
+items:
+  'smp':
+    material: GRASS_BLOCK
+    slot: 12
+    display_name: '&aSMP'
+    lore:
+      - '&7اضغط للدخول'
+    left_click_commands:
+      - '[player] mv tp smpspawn'
+      - '[close]'
+
+  'boxpvp':
+    material: DIAMOND_SWORD
+    slot: 14
+    display_name: '&cBoxPvP'
+    lore:
+      - '&7click to enter'
+    left_click_commands:
+      - '[player] mv tp Boxpvp'
+      - '[close]'
+  'hub':
+    material: COMPASS
+    slot: 13
+    display_name: '&eHub'
+    lore:
+      - '&7الرجوع إلى الهب'
+    left_click_commands:
+      - '[player]  hub'
+      - '[close]'
+
+
+    fill_item:
+  material: BLACK_STAINED_GLASS_PANE
+  display_name: ' '
+  slots:
+    - 0
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+
+

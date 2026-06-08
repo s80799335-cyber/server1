@@ -1,1 +1,12 @@
-portals: {}
+portals:
+  afkportal:
+    currency: air
+    price: 0.0
+    safe-teleport: true
+    teleport-non-players: false
+    owner: Darkanas1992013
+    location: Boxpvp:115.0,207.0,60.0:119.0,211.0,60.0
+    action-type: multiverse-destination
+    action: ''
+    check-destination-safety: true
+    version: 1.2

@@ -1,10 +1,10 @@
 teleportenabled: true
 teleportauto: false
 godmode: false
-flymode: false
+flymode: true
 muted: false
 jailed: false
-ip-address: 197.132.100.249
+ip-address: 197.132.172.36
 afk: false
 socialspy: false
 npc: false
@@ -12,28 +12,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1780850768952
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1780701408223
-  login: 1780701391611
+  logout: 1780862779696
+  login: 1780862228065
 money: '0'
 last-account-name: Darkanas1992013
 lastlocation:
-  world: b6d19721-f8d6-44a3-bca6-7d221c4eb98d
-  world-name: world
-  x: -8.5
-  y: -60.0
-  z: 8.5
-  yaw: 0.0
-  pitch: 0.0
+  world: 6b54a5f3-8edd-4961-832a-09cd08c70f8d
+  world-name: Boxpvp
+  x: 152.55475762306477
+  y: -22.510397371492985
+  z: 208.56937022836718
+  yaw: 91.36874389648438
+  pitch: 25.350034713745117
 logoutlocation:
-  world: b6d19721-f8d6-44a3-bca6-7d221c4eb98d
-  world-name: world
-  x: 0.5
-  y: -60.0
-  z: 0.5
-  yaw: 167.5504913330078
-  pitch: 33.15000915527344
+  world: 9dc62c39-7b30-4b43-8eb6-ad878e6769ec
+  world-name: hub
+  x: 50.66017407949833
+  y: 7.0
+  z: -59.15144902360827
+  yaw: 70.9493408203125
+  pitch: 9.899831771850586

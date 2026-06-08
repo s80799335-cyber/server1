@@ -12,28 +12,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1780702989666
+  lastteleport: 1780774354715
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1780703275513
-  login: 1780703037314
+  logout: 1780839561239
+  login: 1780839531556
 money: '0'
 last-account-name: ViPhoenixLogic
 logoutlocation:
-  world: b6d19721-f8d6-44a3-bca6-7d221c4eb98d
-  world-name: world
-  x: -24.89293681039406
-  y: -57.84976879230401
-  z: -13.927029413553642
-  yaw: -37.650177001953125
-  pitch: 16.350019454956055
-lastlocation:
   world: 9dc62c39-7b30-4b43-8eb6-ad878e6769ec
   world-name: hub
-  x: -3.0711870383708297
+  x: -3.516017710153251
   y: 29.0
-  z: -69.66344452894091
-  yaw: -65.70382690429688
-  pitch: -17.400163650512695
+  z: -66.4789965449134
+  yaw: -94.65408325195312
+  pitch: 15.000021934509277
+lastlocation:
+  world: 6b54a5f3-8edd-4961-832a-09cd08c70f8d
+  world-name: Boxpvp
+  x: 101.7846834917603
+  y: 49.18450907935734
+  z: 254.8360835805818
+  yaw: -154.79747009277344
+  pitch: 23.849987030029297

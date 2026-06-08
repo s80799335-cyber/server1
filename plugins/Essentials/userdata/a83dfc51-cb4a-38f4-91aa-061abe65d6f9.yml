@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 41.128.89.83
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1780879317488
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1780882095948
+  login: 1780878165945
+money: '0'
+last-account-name: VPhoenixLogic
+lastlocation:
+  world: b6d19721-f8d6-44a3-bca6-7d221c4eb98d
+  world-name: world
+  x: 8.300502218985649
+  y: -55.00694789689463
+  z: -9.854514530525842
+  yaw: 131.2499542236328
+  pitch: 36.90001678466797
+logoutlocation:
+  world: 6b54a5f3-8edd-4961-832a-09cd08c70f8d
+  world-name: Boxpvp
+  x: 83.85707013074673
+  y: 28.0
+  z: 219.2302745062967
+  yaw: 155.407470703125
+  pitch: 29.493736267089844
