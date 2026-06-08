@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 197.132.100.249
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1780779810913
+  login: 1780779788631
+money: '0'
+last-account-name: Ladaul128
+lastlocation:
+  world: 9dc62c39-7b30-4b43-8eb6-ad878e6769ec
+  world-name: hub
+  x: -3.516017710153251
+  y: 29.0
+  z: -66.4789965449134
+  yaw: -87.90408325195312
+  pitch: -0.7499806880950928
+logoutlocation:
+  world: 18572e76-4bfd-4a25-95ff-f713479627c0
+  world-name: void
+  x: 0.0
+  y: -1254.5121834190084
+  z: 0.0
+  yaw: 55.79998779296875
+  pitch: -71.5499267578125

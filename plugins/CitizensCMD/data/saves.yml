@@ -1,19 +1,17 @@
 npc-data:
-  npc-1:
+  npc-5:
     cooldown: 0
     right-click-commands:
-    - '[console] mv tp smp'
+    - '[permission] mv tp Boxpvp'
+    - '[sound] xp'
     left-click-commands: []
     price: 0
-  npc-18:
+  npc-6:
     cooldown: 0
     right-click-commands:
-    - '[console] mv to smp'
-    - '[mv] to smp'
-    - '[permission] mv to smp'
-    - '[permission] mv to smp'
-    - '[permission] mv to smp'
-    - '[permission] mv to smp'
     - '[permission] mv tp smp'
+    - '[permission] mv tp smp'
+    - '[permission] mv tp spawnsmp'
+    - '[permission] mv tp smpspawn'
     left-click-commands: []
     price: 0

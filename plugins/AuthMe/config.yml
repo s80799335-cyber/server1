@@ -158,7 +158,7 @@ settings:
         # The next time the player joins the server, if his IP
         # is the same as last time and the timeout hasn't
         # expired, he will not need to authenticate.
-        enabled: true
+        enabled: false
         # After how many minutes should a session expire?
         # A player's session ends after the timeout or if his IP has changed
         timeout: 43200
@@ -216,9 +216,7 @@ settings:
             # WorldNames where we need to force the spawn location
             # Case-sensitive!
             worlds: 
-            - world
-            - world_nether
-            - world_the_end
+            - void
         # This option will save the quit location of the players.
         SaveQuitLocation: false
         # To activate the restricted user feature you need
@@ -259,7 +257,7 @@ settings:
         # Should not logged in players be teleported to the spawn?
         # After the authentication they will be teleported back to
         # their normal position.
-        teleportUnAuthedToSpawn: false
+        teleportUnAuthedToSpawn: true
         # Can unregistered players walk around?
         allowMovement: false
         # After how many seconds should players who fail to login or register

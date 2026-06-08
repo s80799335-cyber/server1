@@ -1,0 +1,25 @@
+menu_title: '&8اختيار السيرفر'
+open_command: server
+
+size: 9
+
+items:
+  'smp':
+    material: GRASS_BLOCK
+    slot: 3
+    display_name: '&aSMP'
+    lore:
+      - '&7اضغط للدخول'
+    left_click_commands:
+      - '[player] server smp'
+      - '[close]'
+
+  'boxpvp':
+    material: DIAMOND_SWORD
+    slot: 5
+    display_name: '&cBoxPvP'
+    lore:
+      - '&7اضغط للدخول'
+    left_click_commands:
+      - '[player] server boxpvp'
+      - '[close]'

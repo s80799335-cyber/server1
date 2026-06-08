@@ -1,0 +1,1868 @@
+# This file is not intended to be manually modified! If you want to manually edit this file anyway, ensure that the server is not running currently and that you have prepared a backup of this file.
+
+data-version: 4|2|4790
+'2':
+  uniqueId: 73e0588a-be03-444b-8ffa-13bd5eea210a
+  world: Boxpvp
+  x: 143
+  y: 202
+  z: 82
+  yaw: 12.469122
+  type: admin
+  open: true
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:plains
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:leather_helmet
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:gold_nugget
+        count: 1
+    '2':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:leather_chestplate
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:gold_nugget
+        count: 1
+    '3':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:leather_leggings
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:gold_nugget
+        count: 1
+    '4':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:leather_boots
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:gold_nugget
+        count: 1
+    '5':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+    '6':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:leather_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:leather_helmet
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_nugget
+        count: 4
+    '7':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:leather_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:leather_chestplate
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_nugget
+        count: 4
+    '8':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:leather_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:leather_leggings
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_nugget
+        count: 4
+    '9':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:leather_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:leather_boots
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_nugget
+        count: 4
+    '10':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:leather_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:leather_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_nugget
+        count: 8
+    '11':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:leather_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:leather_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_nugget
+        count: 8
+    '12':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:leather_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:leather_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_nugget
+        count: 8
+    '13':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:leather_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:leather_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_nugget
+        count: 8
+    '14':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+    '15':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:leather_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:leather_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_nugget
+        count: 12
+    '16':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:leather_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:leather_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_nugget
+        count: 12
+    '17':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:leather_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:leather_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_nugget
+        count: 12
+    '18':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:leather_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:leather_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_nugget
+        count: 12
+    '19':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:leather_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:leather_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_nugget
+        count: 48
+    '20':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:leather_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:leather_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_nugget
+        count: 48
+    '21':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:leather_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:leather_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_nugget
+        count: 48
+    '22':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:leather_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:leather_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_nugget
+        count: 48
+    '23':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+    '24':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:copper_helmet
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:leather_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_nugget
+        count: 64
+    '25':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:copper_chestplate
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:leather_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_nugget
+        count: 64
+    '26':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:copper_leggings
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:leather_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_nugget
+        count: 64
+    '27':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:copper_boots
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:leather_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_nugget
+        count: 64
+  snapshots: []
+'3':
+  uniqueId: d8982c1b-2ecb-45dd-a67e-90ce16726f4c
+  world: Boxpvp
+  x: 146
+  y: 202
+  z: 83
+  yaw: 33.854996
+  type: admin
+  open: true
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:plains
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:copper_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:copper_helmet
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold
+        count: 4
+    '2':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:copper_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:copper_chestplate
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold
+        count: 4
+    '3':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:copper_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:copper_leggings
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold
+        count: 4
+    '4':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:copper_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:copper_boots
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold
+        count: 4
+    '5':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+    '6':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:copper_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:copper_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold
+        count: 8
+    '7':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:copper_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:copper_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold
+        count: 8
+    '8':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:copper_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:copper_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold
+        count: 8
+    '9':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:copper_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:copper_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold
+        count: 8
+    '10':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:copper_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:copper_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold
+        count: 16
+    '11':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:copper_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:copper_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold
+        count: 16
+    '12':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:copper_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:copper_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold
+        count: 16
+    '13':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:copper_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:copper_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold
+        count: 16
+    '14':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+    '15':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:copper_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:copper_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold
+        count: 32
+    '16':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:copper_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:copper_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold
+        count: 32
+    '17':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:copper_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:copper_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold
+        count: 32
+    '18':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:copper_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:copper_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold
+        count: 32
+    '19':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:iron_helmet
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:copper_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold
+        count: 64
+    '20':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:iron_chestplate
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:copper_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold
+        count: 64
+    '21':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:iron_leggings
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:copper_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold
+        count: 64
+    '22':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:iron_boots
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:copper_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold
+        count: 64
+  snapshots: []
+'4':
+  uniqueId: 6ebf9f50-b401-483d-aa26-b23bcf37675d
+  world: Boxpvp
+  x: 148
+  y: 202
+  z: 86
+  yaw: 96.95301
+  type: admin
+  open: true
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:plains
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:iron_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:iron_helmet
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_ingot
+        count: 4
+    '2':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:iron_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:iron_chestplate
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_ingot
+        count: 4
+    '3':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:iron_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:iron_leggings
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_ingot
+        count: 4
+    '4':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:iron_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:iron_boots
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_ingot
+        count: 4
+    '5':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+    '6':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:iron_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:iron_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_ingot
+        count: 16
+    '7':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:iron_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:iron_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_ingot
+        count: 16
+    '8':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:iron_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:iron_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_ingot
+        count: 16
+    '9':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:iron_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:iron_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_ingot
+        count: 16
+    '10':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:iron_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:iron_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_ingot
+        count: 32
+    '11':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:iron_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:iron_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_ingot
+        count: 32
+    '12':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:iron_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:iron_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_ingot
+        count: 32
+    '13':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:iron_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:iron_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_ingot
+        count: 32
+    '14':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+    '15':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:iron_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:iron_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_ingot
+        count: 48
+    '16':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:iron_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:iron_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_ingot
+        count: 48
+    '17':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:iron_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:iron_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_ingot
+        count: 48
+    '18':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:iron_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:iron_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_ingot
+        count: 48
+    '19':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:diamond_helmet
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:iron_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_ingot
+        count: 64
+    '20':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:diamond_chestplate
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:iron_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_ingot
+        count: 64
+    '21':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:diamond_leggings
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:iron_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_ingot
+        count: 64
+    '22':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:diamond_boots
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:iron_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_ingot
+        count: 64
+  snapshots: []
+'5':
+  uniqueId: d93fee4b-bce4-4cc0-9286-f586202081d2
+  world: Boxpvp
+  x: 148
+  y: 202
+  z: 89
+  yaw: 95.948555
+  type: admin
+  open: true
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:plains
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:diamond_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:diamond_helmet
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_block
+        count: 4
+    '2':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:diamond_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:diamond_chestplate
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_block
+        count: 4
+    '3':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:diamond_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:diamond_leggings
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_block
+        count: 4
+    '4':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:diamond_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:diamond_boots
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_block
+        count: 4
+    '5':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+    '6':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:diamond_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:diamond_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_block
+        count: 8
+    '7':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:diamond_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:diamond_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_block
+        count: 8
+    '8':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:diamond_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:diamond_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_block
+        count: 8
+    '9':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:diamond_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:diamond_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_block
+        count: 8
+    '10':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:diamond_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:diamond_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_block
+        count: 32
+    '11':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:diamond_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:diamond_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_block
+        count: 32
+    '12':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:diamond_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:diamond_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_block
+        count: 32
+    '13':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:diamond_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:diamond_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_block
+        count: 32
+    '14':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+    '15':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:diamond_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:diamond_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_block
+        count: 48
+    '16':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:diamond_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:diamond_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_block
+        count: 48
+    '17':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:diamond_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:diamond_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_block
+        count: 48
+    '18':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:diamond_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:diamond_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_block
+        count: 48
+    '19':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:netherite_helmet
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:diamond_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_block
+        count: 64
+    '20':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:netherite_chestplate
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:diamond_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_block
+        count: 64
+    '21':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:netherite_leggings
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:diamond_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_block
+        count: 64
+    '22':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:netherite_boots
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:diamond_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:gold_block
+        count: 64
+  snapshots: []
+'6':
+  uniqueId: e285fd6c-9056-4b9e-8a22-b1289c2b18c7
+  world: Boxpvp
+  x: 146
+  y: 202
+  z: 92
+  yaw: 164.24284
+  type: admin
+  open: true
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:plains
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:netherite_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:netherite_helmet
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold_block
+        count: 4
+    '2':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:netherite_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:netherite_chestplate
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold_block
+        count: 4
+    '3':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:netherite_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:netherite_leggings
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold_block
+        count: 4
+    '4':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:netherite_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:netherite_boots
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold_block
+        count: 4
+    '5':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+    '6':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:netherite_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:netherite_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold_block
+        count: 8
+    '7':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:netherite_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:netherite_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold_block
+        count: 8
+    '8':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:netherite_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:netherite_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold_block
+        count: 8
+    '9':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:netherite_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:netherite_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":1}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold_block
+        count: 8
+    '10':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:netherite_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:netherite_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold_block
+        count: 16
+    '11':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:netherite_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:netherite_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold_block
+        count: 16
+    '12':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:netherite_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:netherite_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold_block
+        count: 16
+    '13':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:netherite_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:netherite_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":2}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold_block
+        count: 16
+    '14':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+      item1:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+      item2:
+        DataVersion: 4790
+        id: minecraft:barrier
+        count: 1
+    '15':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:netherite_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:netherite_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold_block
+        count: 32
+    '16':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:netherite_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:netherite_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold_block
+        count: 32
+    '17':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:netherite_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:netherite_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold_block
+        count: 32
+    '18':
+      resultItem:
+        DataVersion: 4790
+        id: minecraft:netherite_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":4}'
+      item1:
+        DataVersion: 4790
+        id: minecraft:netherite_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:protection":3}'
+      item2:
+        DataVersion: 4790
+        id: minecraft:raw_gold_block
+        count: 32
+  snapshots: []
+'7':
+  uniqueId: c19afab8-6aa6-47de-93f9-be130b080e1c
+  world: Boxpvp
+  x: 143
+  y: 202
+  z: 93
+  yaw: 164.0155
+  type: admin
+  open: true
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:plains
+    villagerLevel: 1
+  recipes: {}
+  snapshots: []
+'8':
+  uniqueId: bae6e4db-718e-47d2-bc94-9b8254a6ceb2
+  world: Boxpvp
+  x: 140
+  y: 202
+  z: 95
+  yaw: 194.33592
+  type: admin
+  open: true
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:plains
+    villagerLevel: 1
+  recipes: {}
+  snapshots: []
